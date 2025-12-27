@@ -1,3 +1,12 @@
+# ------------------------------------------------------------
+# Project : Finger Counting Using Camera (All 10 Fingers)
+# Author  : Ashish Kumar Rawat
+# Purpose : Real-time finger counting using webcam
+# Tech    : Python, OpenCV, MediaPipe
+# Features: Detects both hands and counts 0–10 fingers live
+# ------------------------------------------------------------
+
+
 import cv2
 import mediapipe as mp
 
